@@ -47,6 +47,7 @@
                                 </view>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
+                                    <segue id="277" destination="10" kind="push" identifier="TaskSegue"/>
                                 </connections>
                             </tableViewCell>
                         </prototypes>
@@ -60,7 +61,6 @@
                         <barButtonItem id="97" translatesAutoresizingMaskIntoConstraints="NO" key="rightBarButtonItem" systemItem="add"/>
                     </navigationItem>
                     <connections>
-                        <segue id="93" destination="10" kind="push" identifier="TaskSegue"/>
                         <outlet property="btnChoreAdd" destination="97" id="name-outlet-97"/>
                     </connections>
                 </tableViewController>

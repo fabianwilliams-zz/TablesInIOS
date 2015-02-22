@@ -1,12 +1,9 @@
 ﻿<Properties StartupItem="StoryboardTables/StoryboardTables.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StoryboardTables/MasterViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoryboardTables/TaskDetailViewController.cs">
     <Files>
-      <File FileName="StoryboardTables/AppDelegate.cs" Line="1" Column="1" />
-      <File FileName="StoryboardTables/Chore.cs" Line="1" Column="1" />
-      <File FileName="StoryboardTables/RootTableSource.cs" Line="27" Column="27" />
-      <File FileName="StoryboardTables/MasterViewController.cs" Line="8" Column="8" />
       <File FileName="StoryboardTables/TaskDetailViewController.cs" Line="14" Column="14" />
+      <File FileName="StoryboardTables/MasterViewController.cs" Line="8" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
